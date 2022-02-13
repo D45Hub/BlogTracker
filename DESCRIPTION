@@ -1,0 +1,10 @@
+Package: BlogTracker
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: D45Hub
+Maintainer: D45Hub
+Description: Tracks RSS publishing data statistics in a plot.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
